@@ -1,0 +1,82 @@
+{
+  
+    "legoitems": [
+      {
+        "id": 1,
+        "image":"./images/l1.jpg",
+        "name": "LEGO Creator", 
+        "desc":"Expert Ford",      
+        "price":6999
+      },
+      {
+        "id": 2,
+        "image":"./images/l2.jpg",
+        "name": "LEGO Creator", 
+        "desc":"Expert NASA",   
+        "price":5999
+      },
+      {
+        "id": 3,
+        "image":"./images/l3.jpg",
+        "name": "LEGO Star Wars", 
+        "desc":"Boba Fett Helmet",   
+        "price":5999
+      },
+      {
+        "id": 4,
+        "image":"./images/l4.jpg",
+        "name": "LEGO Speed", 
+        "desc":"Champions",   
+        "price":4999
+      },
+      {
+        "id": 5,
+        "image":"./images/l5.jpg",
+        "name": "LEGO Bonsai Tree", 
+        "desc":"10281 Building Kit",   
+        "price":2999
+      },
+      {
+        "id": 6,
+        "image":"./images/l6.jpg",
+        "name": "LEGO Star Wars", 
+        "desc":"Scout Trooper",   
+        "price":3999
+      },
+      {
+        "id": 7,
+        "image":"./images/l7.jpg",
+        "name": "LEGO Creator 3 in 1", 
+        "desc":"Magestic Tiger",   
+        "price":7999
+      },
+      {
+        "id": 8,
+        "image":"./images/l8.jpg",
+        "name": "LEGO City Police", 
+        "desc":"Station 60316",   
+        "price":6999
+      },
+      {
+        "id": 9,
+        "image":"./images/l9.jpg",
+        "name": "LEGO City Wild", 
+        "desc":"Animal Rescue",   
+        "price":5999
+      },
+      {
+        "id": 10,
+        "image":"./images/l10.jpg",
+        "name": "LEGO City Mars", 
+        "desc":"Space Craft",   
+        "price":2999
+      },
+      {
+        "id": 11,
+        "image":"./images/l11.jpg",
+        "name": "LEGO City Water", 
+        "desc":"Police Detective",   
+        "price":5999
+      }
+    ]
+  }

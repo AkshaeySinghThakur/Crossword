@@ -1,0 +1,131 @@
+{
+  
+    "bookmarks": [
+      {
+        "id": 1,
+        "image":"./images/b1.jpg",
+        "name": "BOOKMARK", 
+        "desc":" ORNAMENT",      
+        "price":450
+      },
+      {
+        "id": 2,
+        "image":"./images/b2.jpg",
+        "name": "BOOKMARK", 
+        "desc":" ORNAMENT",     
+        "price":590
+      },
+      {
+        "id": 3,
+        "image":"./images/b3.png",
+        "name": "BOOKMARK", 
+        "desc":" ORNAMENT",     
+        "price":450
+      },
+      {
+        "id": 4,
+        "image":"./images/b4.png",
+        "name": "BOOKMARK", 
+        "desc":" ORNAMENT",   
+        "price":450
+      },
+      {
+        "id": 5,
+        "image":"./images/b5.png",
+        "name": "BOOKMARK", 
+        "desc":" ORNAMENT",   
+        "price":550
+      },
+      {
+        "id": 6,
+        "image":"./images/b6.png",
+        "name": "BOOKMARK", 
+        "desc":" ORNAMENT",   
+        "price":350
+      },
+      {
+        "id": 7,
+        "image":"./images/b7.png",
+        "name": "BOOKMARK", 
+        "desc":" ORNAMENT",   
+        "price":450
+      },
+      {
+        "id": 8,
+        "image":"./images/b8.png",
+        "name": "BOOKMARK", 
+        "desc":" ORNAMENT",   
+        "price":590
+      },
+      {
+        "id": 9,
+        "image":"./images/b9.png",
+        "name": "BOOKMARK", 
+        "desc":" ORNAMENT",    
+        "price":590
+      },
+      {
+        "id": 10,
+        "image":"./images/b10.jpg",
+        "name": "BOOKMARK", 
+        "desc":" ORNAMENT",    
+        "price":450
+      },
+      {
+        "id": 11,
+        "image":"./images/b11.jpg",
+        "name": "BOOKMARK", 
+        "desc":" ORNAMENT",  
+        "price":590
+      },
+      {
+        "id": 12,
+        "image":"./images/b12.jpg",
+        "name": "BOOKMARK", 
+        "desc":" ORNAMENT",  
+        "price":450
+      },
+      {
+        "id": 13,
+        "image":"./images/b13.jpg",
+        "name": "BOOKMARK", 
+        "desc":" ORNAMENT",  
+        "price":590
+      },
+      {
+        "id": 14,
+        "image":"./images/b14.jpg",
+        "name": "BOOKMARK", 
+        "desc":" ORNAMENT",  
+        "price":450
+      },
+      {
+        "id": 15,
+        "image":"./images/b15.jpg",
+        "name": "BOOKMARK", 
+        "desc":" ORNAMENT",  
+        "price":450
+      },
+      {
+        "id": 16,
+        "image":"./images/b16.jpg",
+        "name": "BOOKMARK", 
+        "desc":" ORNAMENT",  
+        "price":450
+      },
+      {
+        "id": 17,
+        "image":"./images/b17.jpg",
+        "name": "BOOKMARK", 
+        "desc":" ORNAMENT",  
+        "price":590
+      },
+      {
+        "id": 18,
+        "image":"./images/b18.jpg",
+        "name": "BOOKMARK", 
+        "desc":" ORNAMENT",  
+        "price":450
+      }
+    ]
+  }
